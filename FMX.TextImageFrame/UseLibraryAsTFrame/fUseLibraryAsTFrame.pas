@@ -40,8 +40,8 @@ end;
 procedure TForm1.FormCreate(Sender: TObject);
 begin
   OlfFMXTextImageFrame1.OnGetImageIndexOfUnknowChar := ConvertUnknownChars;
-  OlfFMXTextImageFrame1.Fonte := dm_CharacterImages.ImageList;
-  OlfFMXTextImageFrame1.Texte := '012abcABC';
+  OlfFMXTextImageFrame1.Font := dm_CharacterImages.ImageList;
+  OlfFMXTextImageFrame1.Text := '012 abc ABC';
 end;
 
 end.

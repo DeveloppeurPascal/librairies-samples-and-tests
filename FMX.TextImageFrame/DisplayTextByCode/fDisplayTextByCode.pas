@@ -45,7 +45,8 @@ begin
   begin
     align := talignlayout.Center;
     OnGetImageIndexOfUnknowChar := ConvertUnknownChars;
-    texte := '012abcABC';
+    LetterSpacing:=-20;
+    text := '012 abc ABC';
   end;
 end;
 
@@ -58,8 +59,8 @@ begin
     parent := self;
     align := talignlayout.top;
     height := 100;
-    Fonte := AFont;
-    texte := Atext;
+    Font := AFont;
+    text := Atext;
   end;
 end;
 
