@@ -6,6 +6,12 @@ Samples and test programs for the units and components from "[DeveloppeurPascal/
 
 This code repository contains a project developed in Object Pascal language under Delphi. You don't know what Delphi is and where to download it ? You'll learn more [on this web site](https://delphi-resources.developpeur-pascal.fr/).
 
+## Repository archived on March 10, 2024
+
+**The examples here have been moved to the "./samples" subfolder of the [DeveloppeurPascal/librairies](https://github.com/DeveloppeurPascal/librairies) code repository.**
+
+**They will no longer be maintained here. No other examples will be added. Please refer to [DeveloppeurPascal/librairies](https://github.com/DeveloppeurPascal/librairies) for examples related to this toolbox for Delphi developers and to [DeveloppeurPascal/Delphi-Samples](https://github.com/DeveloppeurPascal/Delphi-Samples) if you are looking for examples related to Delphi itself or external libraries.**
+
 ## Install
 
 To download this project you better should use "git" command but you also can download a ZIP from [its GitHub repository](https://github.com/DeveloppeurPascal/librairies-samples-and-tests).

@@ -6,6 +6,12 @@ Programmes d'exemple et de test des unités et composants présents sur "[Develo
 
 Ce dépôt de code contient un projet développé en langage Pascal Objet sous Delphi. Vous ne savez pas ce qu'est Dephi ni où le télécharger ? Vous en saurez plus [sur ce site web](https://delphi-resources.developpeur-pascal.fr/).
 
+## Archivage du dépôt le 10 mars 2024
+
+**Les exemples présents ici ont été déplacés dans le sous-dossier "./samples" du dépôt de code [DeveloppeurPascal/librairies](https://github.com/DeveloppeurPascal/librairies).**
+
+**Ils ne seront plus maintenus ici. Aucun autre exemple ne sera ajouté. Reportez-vous à [DeveloppeurPascal/librairies](https://github.com/DeveloppeurPascal/librairies) pour y trouver les exemples liés à cette boite à outils pour développeurs Delphi et à [DeveloppeurPascal/Delphi-Samples](https://github.com/DeveloppeurPascal/Delphi-Samples) si vous cherchez des exemples liés à Delphi lui-même ou des librairies externes.**
+
 ## Installation
 
 Pour télécharger ce projet il est recommandé de passer par "git" mais vous pouvez aussi télécharger un ZIP directement depuis [son dépôt GitHub](https://github.com/DeveloppeurPascal/librairies-samples-and-tests).
